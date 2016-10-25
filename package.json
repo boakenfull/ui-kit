@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boakenfull/ui-kit.git"
+    "url": "git+https://github.com/boakenfull/wazooie.git"
   },
   "author": "Ben Oakenfull <benoakenfull@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boakenfull/ui-kit/issues"
+    "url": "https://github.com/boakenfull/wazooie/issues"
   },
-  "homepage": "https://github.com/boakenfull/ui-kit#readme",
+  "homepage": "https://github.com/boakenfull/wazooie#readme",
   "devDependencies": {
     "gulp": "~3.9.1",
     "gulp-cssnano": "~2.1.2",

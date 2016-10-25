@@ -1,1 +1,1 @@
-# UI Kit
+# Wazooie - SASS UI Kit
