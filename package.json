@@ -1,0 +1,28 @@
+{
+  "name": "ui-kit",
+  "version": "1.0.0",
+  "description": "UI Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boakenfull/ui-kit.git"
+  },
+  "author": "Ben Oakenfull <benoakenfull@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boakenfull/ui-kit/issues"
+  },
+  "homepage": "https://github.com/boakenfull/ui-kit#readme",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-cssnano": "~2.1.2",
+    "gulp-header": "^1.8.7",
+    "gulp-rename": "~1.2.2",
+    "gulp-sass": "~2.3.2",
+    "gulp-sass-lint": "^1.2.0",
+    "gulp-size": "^2.1.0"
+  }
+}
