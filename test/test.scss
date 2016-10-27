@@ -7,6 +7,6 @@
   // Testing Functions
   @include test('Map Add [function]') {
     @include assert-equal($test_var, 10px,
-      'Returns the sum of two numeric maps');
+      'Returns the sum of two numeric map');
   }
 }
